@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to READY TO SERVE
+
+Ready To Serve is a platform that is useful for the community in offering services, so that people who need certain services can easily find and hire them.
+
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/Ready-To-Serve/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
